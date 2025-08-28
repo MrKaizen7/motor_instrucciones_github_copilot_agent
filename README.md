@@ -3,6 +3,13 @@
 ---
 [🌐 English version](https://github.com/MrKaizen/github_copilot_agent_instruction_engine/README.md)
 ---
+TL;DR
+
+Este repo te permite no tener que recordarle a tu copilot, por ejemplo, que el nombre del componente es PalmTree y no palmtree. ¿Te suena familiar?
+
+Las Instrucciones funcionan a un nivel más profundo que el contexto. Tu copilot verificará las instrucciones primero y será lo suficientemente inteligente como para saber cuáles usar.
+
+Los Prompts (indicaciones) son solo preajustes, útiles cuando tienes tareas repetitivas que implican conservar una estructura o un estilo, y ayudan a tu copilot a evitar momentos de "espera, ¿qué es la vida?".
 
 Esta carpeta impulsa el motor de desarrollo basado en AI para el repositorio. Proporciona instrucciones modulares y prompts reutilizables tanto para colaboradores humanos como para AI, asegurando estándares, flujos de trabajo y procesos de incorporación consistentes.
 
