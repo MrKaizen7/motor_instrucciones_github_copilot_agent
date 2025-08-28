@@ -1,7 +1,7 @@
 # BAM! Github Copilot Mejorado — Instrucciones para Agentes IA
 
 ---
-[🌐 English version](https://github.com/MrKaizen/github_copilot_agent_instruction_engine/README.md)
+[🌐 English version](https://github.com/MrKaizen/github_copilot_agent_instruction_engine)
 ---
 TL;DR
 
